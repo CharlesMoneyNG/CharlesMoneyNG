@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Advanced Excel, Power Bi, SQL, Tableau**
 
-- 👯 I’m looking to collaborate on **Data Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
 - 🤝 I’m looking for help with **Data Analysis Remote Roles**
 
-- 💬 Ask me about **Data Analysis, Blockchain, Cyptocurrency**
+- 💬 Ask me about **Data Analysis, Blockchain, Finance, Cyptocurrency**
 
 - 📫 How to reach me **ofomatacharles@gmail.com**
 
